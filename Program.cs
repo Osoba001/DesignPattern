@@ -8,12 +8,14 @@ ICreditCard moneyBack=new MoneyBackFactory().CreateProduct();
 Console.WriteLine(moneyBack.GetCardName());
 Console.WriteLine(moneyBack.GetAnnualCharge());
 Console.WriteLine(moneyBack.GetCardLimit());
+
 Console.WriteLine("---------------------------------");
 Console.WriteLine();
 ICreditCard titanium=new TitaniumFactory().CreateProduct();
 Console.WriteLine(titanium.GetCardName());
 Console.WriteLine(titanium.GetAnnualCharge());
 Console.WriteLine(titanium.GetCardLimit());
+
 
 Console.WriteLine("---------------------------------");
 Console.WriteLine();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xQTdGndy/ciDjE9L2XrT8JaOGHI0+GspbtZ2Ygr++CFUNbtVFfOLzY3VdB+ObCGBDQxKWoMQ3QIxreB9S4nB1g==",
+  "dgSpecHash": "mPCYuZ6NRsHE2GkMxN0tfs+sZmejTkE1sjnXYpLTjo4XlY1tgBzRAHcDtz1lxH93sqQyvqgXFO7m2VsThmvBeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Apps\\Smart shop\\FactoryMethod\\CardFactoryMethod.console\\CardFactoryMethod.console.csproj",
+  "projectFilePath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\CardFactoryMethod.console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
