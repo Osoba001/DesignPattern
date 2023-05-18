@@ -1,0 +1,15 @@
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\kelly.osoba\Desktop\APPs\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll

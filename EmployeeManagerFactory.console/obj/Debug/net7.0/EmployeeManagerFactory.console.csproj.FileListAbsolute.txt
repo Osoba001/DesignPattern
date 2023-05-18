@@ -1,0 +1,15 @@
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\bin\Debug\net7.0\EmployeeManagerFactory.console.exe
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\bin\Debug\net7.0\EmployeeManagerFactory.console.deps.json
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\bin\Debug\net7.0\EmployeeManagerFactory.console.runtimeconfig.json
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\bin\Debug\net7.0\EmployeeManagerFactory.console.dll
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\bin\Debug\net7.0\EmployeeManagerFactory.console.pdb
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\obj\Debug\net7.0\EmployeeManagerFactory.console.csproj.AssemblyReference.cache
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\obj\Debug\net7.0\EmployeeManagerFactory.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\obj\Debug\net7.0\EmployeeManagerFactory.console.AssemblyInfoInputs.cache
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\obj\Debug\net7.0\EmployeeManagerFactory.console.AssemblyInfo.cs
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\obj\Debug\net7.0\EmployeeManagerFactory.console.csproj.CoreCompileInputs.cache
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\obj\Debug\net7.0\EmployeeManagerFactory.console.dll
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\obj\Debug\net7.0\refint\EmployeeManagerFactory.console.dll
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\obj\Debug\net7.0\EmployeeManagerFactory.console.pdb
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\obj\Debug\net7.0\EmployeeManagerFactory.console.genruntimeconfig.cache
+C:\Users\kelly.osoba\Desktop\APPs\EmployeeManagerFactory.console\obj\Debug\net7.0\ref\EmployeeManagerFactory.console.dll
