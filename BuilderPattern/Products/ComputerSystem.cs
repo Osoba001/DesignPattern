@@ -13,6 +13,6 @@ namespace BuilderPattern.Products
         public string Keyboad { get; set; }
         public string Mounse { get; set; }
         public bool TouchScreenEnable { get; set; }
-        public ComputerType ComputerType { get; set; } 
+
     }
 }

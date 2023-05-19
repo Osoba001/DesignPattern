@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\BuilderPattern\\BuilderPattern.csproj",
+      "projectUniqueName": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\BuilderPattern\\BuilderPattern.csproj",
       "projectName": "BuilderPattern",
-      "projectPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\BuilderPattern\\BuilderPattern.csproj",
+      "projectPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\BuilderPattern\\BuilderPattern.csproj",
       "packagesPath": "C:\\Users\\kelly.osoba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\BuilderPattern\\obj\\",
+      "outputPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\BuilderPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kelly.osoba\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q14x6EZOOdx84roOSfSXDxBTxwblh/20iV4aCKCL2ETeqi4D1o+IpIjAqnEaSLScoSgfTRvTcdyVa3qBq120QA==",
+  "dgSpecHash": "4zScPwCOIbn0/fs8Q7YHp0QWdnGKtgd/4beabMOJLNlfzSn0R2isloJWyQr1hFQhfRUc4PT9rRXcFCop+jX1XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\EmployeeFactoryMethod\\EmployeeFactoryMethod.csproj",
+  "projectFilePath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\EmployeeFactoryMethod\\EmployeeFactoryMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

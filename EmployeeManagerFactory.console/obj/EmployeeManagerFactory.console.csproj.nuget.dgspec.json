@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kelly.osoba\\Desktop\\APPs\\EmployeeManagerFactory.console\\EmployeeManagerFactory.console.csproj": {}
+    "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\EmployeeManagerFactory.console\\EmployeeManagerFactory.console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kelly.osoba\\Desktop\\APPs\\EmployeeManagerFactory.console\\EmployeeManagerFactory.console.csproj": {
+    "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\EmployeeManagerFactory.console\\EmployeeManagerFactory.console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\EmployeeManagerFactory.console\\EmployeeManagerFactory.console.csproj",
+        "projectUniqueName": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\EmployeeManagerFactory.console\\EmployeeManagerFactory.console.csproj",
         "projectName": "EmployeeManagerFactory.console",
-        "projectPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\EmployeeManagerFactory.console\\EmployeeManagerFactory.console.csproj",
+        "projectPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\EmployeeManagerFactory.console\\EmployeeManagerFactory.console.csproj",
         "packagesPath": "C:\\Users\\kelly.osoba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\EmployeeManagerFactory.console\\obj\\",
+        "outputPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\EmployeeManagerFactory.console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kelly.osoba\\AppData\\Roaming\\NuGet\\NuGet.Config",

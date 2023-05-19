@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\AbstractFactory\\AbstractFactory.csproj",
       "projectName": "AbstractFactory",
-      "projectPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\AbstractFactory\\AbstractFactory.csproj",
+      "projectPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\AbstractFactory\\AbstractFactory.csproj",
       "packagesPath": "C:\\Users\\kelly.osoba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\AbstractFactory\\obj\\",
+      "outputPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kelly.osoba\\AppData\\Roaming\\NuGet\\NuGet.Config",

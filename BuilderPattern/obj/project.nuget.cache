@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YuNduOmYfxtzsmKpIsriIy3Rw98fsLSnYoO/nayVNwX8i/QsTljVYo1a7ONFzkJA65MtjyUxAn+5gri1WS2tjQ==",
+  "dgSpecHash": "NjTDakIt2eOpC5ZyEuvR9wAWxalrQY+m8wNuGJD5LQyfqNJBRkkxzhsqhagR37Hyj2c1i5vue/hj5Rleac7n4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\BuilderPattern\\BuilderPattern.csproj",
+  "projectFilePath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\BuilderPattern\\BuilderPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

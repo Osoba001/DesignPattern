@@ -1,0 +1,15 @@
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\bin\Debug\net7.0\BuilderPattern.exe
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\bin\Debug\net7.0\BuilderPattern.deps.json
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\bin\Debug\net7.0\BuilderPattern.runtimeconfig.json
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\bin\Debug\net7.0\BuilderPattern.dll
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\bin\Debug\net7.0\BuilderPattern.pdb
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.dll
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\obj\Debug\net7.0\refint\BuilderPattern.dll
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.pdb
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\BuilderPattern\obj\Debug\net7.0\ref\BuilderPattern.dll

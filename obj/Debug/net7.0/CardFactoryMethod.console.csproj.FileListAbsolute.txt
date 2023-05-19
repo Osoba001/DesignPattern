@@ -13,3 +13,18 @@ C:\Users\DELL\Desktop\Apps\Smart shop\FactoryMethod\CardFactoryMethod.console\ob
 C:\Users\DELL\Desktop\Apps\Smart shop\FactoryMethod\CardFactoryMethod.console\obj\Debug\net7.0\CardFactoryMethod.console.pdb
 C:\Users\DELL\Desktop\Apps\Smart shop\FactoryMethod\CardFactoryMethod.console\obj\Debug\net7.0\CardFactoryMethod.console.genruntimeconfig.cache
 C:\Users\DELL\Desktop\Apps\Smart shop\FactoryMethod\CardFactoryMethod.console\obj\Debug\net7.0\ref\CardFactoryMethod.console.dll
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\obj\Debug\net7.0\CardFactoryMethod.console.csproj.AssemblyReference.cache
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\obj\Debug\net7.0\CardFactoryMethod.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\obj\Debug\net7.0\CardFactoryMethod.console.AssemblyInfoInputs.cache
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\obj\Debug\net7.0\CardFactoryMethod.console.AssemblyInfo.cs
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\obj\Debug\net7.0\CardFactoryMethod.console.csproj.CoreCompileInputs.cache
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\bin\Debug\net7.0\CardFactoryMethod.console.exe
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\bin\Debug\net7.0\CardFactoryMethod.console.deps.json
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\bin\Debug\net7.0\CardFactoryMethod.console.runtimeconfig.json
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\bin\Debug\net7.0\CardFactoryMethod.console.dll
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\bin\Debug\net7.0\CardFactoryMethod.console.pdb
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\obj\Debug\net7.0\CardFactoryMethod.console.dll
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\obj\Debug\net7.0\refint\CardFactoryMethod.console.dll
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\obj\Debug\net7.0\CardFactoryMethod.console.pdb
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\obj\Debug\net7.0\CardFactoryMethod.console.genruntimeconfig.cache
+C:\Users\kelly.osoba\Desktop\APPs\DesignPattern\obj\Debug\net7.0\ref\CardFactoryMethod.console.dll
