@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\bin\Debug\net7.0\AdapterPattern.exe
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\bin\Debug\net7.0\AdapterPattern.deps.json
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\bin\Debug\net7.0\AdapterPattern.runtimeconfig.json
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\bin\Debug\net7.0\AdapterPattern.dll
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\bin\Debug\net7.0\AdapterPattern.pdb
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\obj\Debug\net7.0\AdapterPattern.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\obj\Debug\net7.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\obj\Debug\net7.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\obj\Debug\net7.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\obj\Debug\net7.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\obj\Debug\net7.0\AdapterPattern.dll
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\obj\Debug\net7.0\refint\AdapterPattern.dll
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\obj\Debug\net7.0\AdapterPattern.pdb
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\obj\Debug\net7.0\AdapterPattern.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\AdapterPattern\obj\Debug\net7.0\ref\AdapterPattern.dll

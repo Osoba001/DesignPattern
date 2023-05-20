@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\bin\Debug\net7.0\CardFactoryMethod.console.exe
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\bin\Debug\net7.0\CardFactoryMethod.console.deps.json
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\bin\Debug\net7.0\CardFactoryMethod.console.runtimeconfig.json
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\bin\Debug\net7.0\CardFactoryMethod.console.dll
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\bin\Debug\net7.0\CardFactoryMethod.console.pdb
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\obj\Debug\net7.0\CardFactoryMethod.console.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\obj\Debug\net7.0\CardFactoryMethod.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\obj\Debug\net7.0\CardFactoryMethod.console.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\obj\Debug\net7.0\CardFactoryMethod.console.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\obj\Debug\net7.0\CardFactoryMethod.console.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\obj\Debug\net7.0\CardFactoryMethod.console.dll
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\obj\Debug\net7.0\refint\CardFactoryMethod.console.dll
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\obj\Debug\net7.0\CardFactoryMethod.console.pdb
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\obj\Debug\net7.0\CardFactoryMethod.console.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\CardMethod\obj\Debug\net7.0\ref\CardFactoryMethod.console.dll

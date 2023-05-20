@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZkHcn6nR9GxqxLgsa1mUJeYITIgsKJl5XYUM1q4E129Z50MJKQ3XWp68hsDYbGI3tnjShhCkUKy3Ni6aOkt5bQ==",
+  "dgSpecHash": "NATIF4dGf1JkOAxcrgG+yXCo4CBzbvQl5ADUk2Eopx0v1FUbrv2PwHXP8DiPSnAl30kTnkyd3DFFfOCAUeCNdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\DesignPattern\\PrototypePattern\\PrototypePattern.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Apps\\DesignPattern\\PrototypePattern\\PrototypePattern.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kelly.osoba\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
