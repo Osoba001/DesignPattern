@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\bin\Debug\net7.0\BridgePattern.exe
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\bin\Debug\net7.0\BridgePattern.deps.json
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\bin\Debug\net7.0\BridgePattern.runtimeconfig.json
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\bin\Debug\net7.0\BridgePattern.dll
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\bin\Debug\net7.0\BridgePattern.pdb
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\obj\Debug\net7.0\BridgePattern.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\obj\Debug\net7.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\obj\Debug\net7.0\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\obj\Debug\net7.0\BridgePattern.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\obj\Debug\net7.0\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\obj\Debug\net7.0\BridgePattern.dll
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\obj\Debug\net7.0\refint\BridgePattern.dll
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\obj\Debug\net7.0\BridgePattern.pdb
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\obj\Debug\net7.0\BridgePattern.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Apps\DesignPattern\BridgePattern\obj\Debug\net7.0\ref\BridgePattern.dll
