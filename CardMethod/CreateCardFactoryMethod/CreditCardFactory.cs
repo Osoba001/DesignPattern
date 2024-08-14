@@ -13,7 +13,8 @@ namespace CardFactoryMethod.console.CreateCardFactoryMethod
 
         public ICreditCard CreateProduct()
         {
-            return this.MakeProduct();
+            var card=MakeProduct();
+            return card;
         }
     }
 }
